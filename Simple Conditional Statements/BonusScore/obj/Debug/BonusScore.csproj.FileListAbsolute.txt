@@ -1,0 +1,5 @@
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\BonusScore\bin\Debug\BonusScore.exe.config
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\BonusScore\bin\Debug\BonusScore.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\BonusScore\bin\Debug\BonusScore.pdb
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\BonusScore\obj\Debug\BonusScore.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\BonusScore\obj\Debug\BonusScore.pdb

@@ -1,0 +1,5 @@
+P:\SOFTUNI\Programing Basics\Simple Loops\NumbersEnding7\bin\Debug\NumbersEnding7.exe.config
+P:\SOFTUNI\Programing Basics\Simple Loops\NumbersEnding7\bin\Debug\NumbersEnding7.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\NumbersEnding7\bin\Debug\NumbersEnding7.pdb
+P:\SOFTUNI\Programing Basics\Simple Loops\NumbersEnding7\obj\Debug\NumbersEnding7.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\NumbersEnding7\obj\Debug\NumbersEnding7.pdb

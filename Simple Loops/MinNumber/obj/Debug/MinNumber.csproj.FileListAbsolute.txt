@@ -1,0 +1,1 @@
+P:\SOFTUNI\Programing Basics\Simple Loops\MinNumber\bin\Debug\MinNumber.exe.config

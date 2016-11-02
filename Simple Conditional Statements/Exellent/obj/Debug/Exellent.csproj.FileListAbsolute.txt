@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Exellent\bin\Debug\Exellent.exe.config
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Exellent\bin\Debug\Exellent.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Exellent\bin\Debug\Exellent.pdb
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Exellent\obj\Debug\Exellent.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Exellent\obj\Debug\Exellent.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Exellent\obj\Debug\Exellent.pdb

@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Numbers1to100\bin\Debug\Numbers1to100.exe.config
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Numbers1to100\bin\Debug\Numbers1to100.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Numbers1to100\bin\Debug\Numbers1to100.pdb
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Numbers1to100\obj\Debug\Numbers1to100.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Numbers1to100\obj\Debug\Numbers1to100.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\Numbers1to100\obj\Debug\Numbers1to100.pdb

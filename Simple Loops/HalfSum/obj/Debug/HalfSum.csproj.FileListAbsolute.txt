@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\Simple Loops\HalfSum\bin\Debug\HalfSum.exe.config
+P:\SOFTUNI\Programing Basics\Simple Loops\HalfSum\bin\Debug\HalfSum.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\HalfSum\bin\Debug\HalfSum.pdb
+P:\SOFTUNI\Programing Basics\Simple Loops\HalfSum\obj\Debug\HalfSum.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\Simple Loops\HalfSum\obj\Debug\HalfSum.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\HalfSum\obj\Debug\HalfSum.pdb

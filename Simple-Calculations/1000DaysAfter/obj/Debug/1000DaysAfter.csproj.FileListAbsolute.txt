@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\Simple-Calculations\1000DaysAfter\bin\Debug\1000DaysAfter.exe.config
+P:\SOFTUNI\Programing Basics\Simple-Calculations\1000DaysAfter\bin\Debug\1000DaysAfter.exe
+P:\SOFTUNI\Programing Basics\Simple-Calculations\1000DaysAfter\bin\Debug\1000DaysAfter.pdb
+P:\SOFTUNI\Programing Basics\Simple-Calculations\1000DaysAfter\obj\Debug\1000DaysAfter.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\Simple-Calculations\1000DaysAfter\obj\Debug\1000DaysAfter.exe
+P:\SOFTUNI\Programing Basics\Simple-Calculations\1000DaysAfter\obj\Debug\1000DaysAfter.pdb

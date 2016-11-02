@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\Simple Loops\OddevenPosition\bin\Debug\OddevenPosition.exe.config
+P:\SOFTUNI\Programing Basics\Simple Loops\OddevenPosition\bin\Debug\OddevenPosition.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\OddevenPosition\bin\Debug\OddevenPosition.pdb
+P:\SOFTUNI\Programing Basics\Simple Loops\OddevenPosition\obj\Debug\OddevenPosition.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\Simple Loops\OddevenPosition\obj\Debug\OddevenPosition.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\OddevenPosition\obj\Debug\OddevenPosition.pdb

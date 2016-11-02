@@ -1,0 +1,5 @@
+P:\SOFTUNI\Programing Basics\Simple Loops\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+P:\SOFTUNI\Programing Basics\Simple Loops\OddEvenSum\bin\Debug\OddEvenSum.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\OddEvenSum\bin\Debug\OddEvenSum.pdb
+P:\SOFTUNI\Programing Basics\Simple Loops\OddEvenSum\obj\Debug\OddEvenSum.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\OddEvenSum\obj\Debug\OddEvenSum.pdb

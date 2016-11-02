@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\StringComparator\bin\Debug\StringComparator.exe.config
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\StringComparator\bin\Debug\StringComparator.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\StringComparator\bin\Debug\StringComparator.pdb
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\StringComparator\obj\Debug\StringComparator.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\StringComparator\obj\Debug\StringComparator.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\StringComparator\obj\Debug\StringComparator.pdb

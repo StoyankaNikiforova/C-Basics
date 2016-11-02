@@ -1,0 +1,5 @@
+P:\SOFTUNI\Programing Basics\AdvancedoopsExercisestion1\NumbeKN1\bin\Debug\NumbeKN1.exe.config
+P:\SOFTUNI\Programing Basics\AdvancedoopsExercisestion1\NumbeKN1\bin\Debug\NumbeKN1.exe
+P:\SOFTUNI\Programing Basics\AdvancedoopsExercisestion1\NumbeKN1\bin\Debug\NumbeKN1.pdb
+P:\SOFTUNI\Programing Basics\AdvancedoopsExercisestion1\NumbeKN1\obj\Debug\NumbeKN1.exe
+P:\SOFTUNI\Programing Basics\AdvancedoopsExercisestion1\NumbeKN1\obj\Debug\NumbeKN1.pdb

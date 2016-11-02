@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\Simple-Calculations\covertCtoF\bin\Debug\covertCtoF.exe.config
+P:\SOFTUNI\Programing Basics\Simple-Calculations\covertCtoF\bin\Debug\covertCtoF.exe
+P:\SOFTUNI\Programing Basics\Simple-Calculations\covertCtoF\bin\Debug\covertCtoF.pdb
+P:\SOFTUNI\Programing Basics\Simple-Calculations\covertCtoF\obj\Debug\covertCtoF.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\Simple-Calculations\covertCtoF\obj\Debug\covertCtoF.exe
+P:\SOFTUNI\Programing Basics\Simple-Calculations\covertCtoF\obj\Debug\covertCtoF.pdb

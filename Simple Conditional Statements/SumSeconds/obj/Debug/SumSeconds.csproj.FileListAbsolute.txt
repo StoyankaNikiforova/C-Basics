@@ -1,0 +1,5 @@
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\SumSeconds\bin\Debug\SumSeconds.exe.config
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\SumSeconds\bin\Debug\SumSeconds.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\SumSeconds\bin\Debug\SumSeconds.pdb
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\SumSeconds\obj\Debug\SumSeconds.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\SumSeconds\obj\Debug\SumSeconds.pdb

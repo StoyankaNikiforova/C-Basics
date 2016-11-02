@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\SpeedInfo\bin\Debug\SpeedInfo.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\SpeedInfo\bin\Debug\SpeedInfo.pdb
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\SpeedInfo\obj\Debug\SpeedInfo.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\SpeedInfo\obj\Debug\SpeedInfo.exe
+P:\SOFTUNI\Programing Basics\Simple Conditional Statements\SpeedInfo\obj\Debug\SpeedInfo.pdb

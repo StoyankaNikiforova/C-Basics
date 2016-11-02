@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\Simple-Calculations\Square-Area\bin\Debug\Square-Area.exe.config
+P:\SOFTUNI\Programing Basics\Simple-Calculations\Square-Area\bin\Debug\Square-Area.exe
+P:\SOFTUNI\Programing Basics\Simple-Calculations\Square-Area\bin\Debug\Square-Area.pdb
+P:\SOFTUNI\Programing Basics\Simple-Calculations\Square-Area\obj\Debug\Square-Area.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\Simple-Calculations\Square-Area\obj\Debug\Square-Area.exe
+P:\SOFTUNI\Programing Basics\Simple-Calculations\Square-Area\obj\Debug\Square-Area.pdb

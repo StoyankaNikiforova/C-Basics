@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\AdvancedoopsExercisestion1\NumbersNto1\bin\Debug\NumbersNto1.exe.config
+P:\SOFTUNI\Programing Basics\AdvancedoopsExercisestion1\NumbersNto1\bin\Debug\NumbersNto1.exe
+P:\SOFTUNI\Programing Basics\AdvancedoopsExercisestion1\NumbersNto1\bin\Debug\NumbersNto1.pdb
+P:\SOFTUNI\Programing Basics\AdvancedoopsExercisestion1\NumbersNto1\obj\Debug\NumbersNto1.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\AdvancedoopsExercisestion1\NumbersNto1\obj\Debug\NumbersNto1.exe
+P:\SOFTUNI\Programing Basics\AdvancedoopsExercisestion1\NumbersNto1\obj\Debug\NumbersNto1.pdb

@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\Simple Loops\EqualPairs\bin\Debug\EqualPairs.exe.config
+P:\SOFTUNI\Programing Basics\Simple Loops\EqualPairs\bin\Debug\EqualPairs.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\EqualPairs\bin\Debug\EqualPairs.pdb
+P:\SOFTUNI\Programing Basics\Simple Loops\EqualPairs\obj\Debug\EqualPairs.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\Simple Loops\EqualPairs\obj\Debug\EqualPairs.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\EqualPairs\obj\Debug\EqualPairs.pdb

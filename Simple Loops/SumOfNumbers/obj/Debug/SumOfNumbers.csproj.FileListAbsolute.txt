@@ -1,0 +1,5 @@
+P:\SOFTUNI\Programing Basics\Simple Loops\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+P:\SOFTUNI\Programing Basics\Simple Loops\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+P:\SOFTUNI\Programing Basics\Simple Loops\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

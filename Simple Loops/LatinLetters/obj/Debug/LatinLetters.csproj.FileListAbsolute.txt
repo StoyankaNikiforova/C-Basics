@@ -1,0 +1,5 @@
+P:\SOFTUNI\Programing Basics\Simple Loops\LatinLetters\bin\Debug\LatinLetters.exe.config
+P:\SOFTUNI\Programing Basics\Simple Loops\LatinLetters\bin\Debug\LatinLetters.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\LatinLetters\bin\Debug\LatinLetters.pdb
+P:\SOFTUNI\Programing Basics\Simple Loops\LatinLetters\obj\Debug\LatinLetters.exe
+P:\SOFTUNI\Programing Basics\Simple Loops\LatinLetters\obj\Debug\LatinLetters.pdb
