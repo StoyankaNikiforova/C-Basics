@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\ShopOfFruit\bin\Debug\ShopOfFruit.exe.config
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\ShopOfFruit\bin\Debug\ShopOfFruit.exe
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\ShopOfFruit\bin\Debug\ShopOfFruit.pdb
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\ShopOfFruit\obj\Debug\ShopOfFruit.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\ShopOfFruit\obj\Debug\ShopOfFruit.exe
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\ShopOfFruit\obj\Debug\ShopOfFruit.pdb

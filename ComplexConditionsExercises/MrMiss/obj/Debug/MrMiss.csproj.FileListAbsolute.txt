@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\MrMiss\bin\Debug\MrMiss.exe.config
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\MrMiss\bin\Debug\MrMiss.exe
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\MrMiss\bin\Debug\MrMiss.pdb
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\MrMiss\obj\Debug\MrMiss.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\MrMiss\obj\Debug\MrMiss.exe
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\MrMiss\obj\Debug\MrMiss.pdb

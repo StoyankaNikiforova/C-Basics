@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\Volleyball\bin\Debug\Volleyball.exe.config
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\Volleyball\bin\Debug\Volleyball.exe
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\Volleyball\bin\Debug\Volleyball.pdb
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\Volleyball\obj\Debug\Volleyball.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\Volleyball\obj\Debug\Volleyball.exe
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\Volleyball\obj\Debug\Volleyball.pdb

@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\TradeComissions\bin\Debug\TradeComissions.exe.config
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\TradeComissions\bin\Debug\TradeComissions.exe
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\TradeComissions\bin\Debug\TradeComissions.pdb
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\TradeComissions\obj\Debug\TradeComissions.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\TradeComissions\obj\Debug\TradeComissions.exe
+P:\SOFTUNI\Programing Basics\ComplexConditionsExercises\TradeComissions\obj\Debug\TradeComissions.pdb

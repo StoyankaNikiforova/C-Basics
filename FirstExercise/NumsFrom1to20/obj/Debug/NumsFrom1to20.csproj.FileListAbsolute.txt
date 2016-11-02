@@ -1,0 +1,6 @@
+P:\SOFTUNI\Programing Basics\FirstExercise\NumsFrom1to20\bin\Debug\NumsFrom1to20.exe.config
+P:\SOFTUNI\Programing Basics\FirstExercise\NumsFrom1to20\bin\Debug\NumsFrom1to20.exe
+P:\SOFTUNI\Programing Basics\FirstExercise\NumsFrom1to20\bin\Debug\NumsFrom1to20.pdb
+P:\SOFTUNI\Programing Basics\FirstExercise\NumsFrom1to20\obj\Debug\NumsFrom1to20.csprojResolveAssemblyReference.cache
+P:\SOFTUNI\Programing Basics\FirstExercise\NumsFrom1to20\obj\Debug\NumsFrom1to20.exe
+P:\SOFTUNI\Programing Basics\FirstExercise\NumsFrom1to20\obj\Debug\NumsFrom1to20.pdb
